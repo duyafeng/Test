@@ -14,7 +14,7 @@
 
 ----
 
-
+.table sample
 [cols="10%,30%,60%", width="100%"]
 |===
 |col1 | col2 | col3
