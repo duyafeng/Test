@@ -1,10 +1,16 @@
 = test asciidoc
+:toc:
+:toc-title: 目录
+:source-highlighter: highlightjs
+:sectnums:
+:sectnumlevels: 5
 
 * 123
 * 123
 * 123
 
 
+== test1
 [source,javascript]
 ----
 
@@ -14,10 +20,13 @@
 
 ----
 
+== test2
 
 [NOTE]
 this is a note!
 
+
+== test3
 
 .table sample
 [cols="10%,30%,60%", width="100%"]
