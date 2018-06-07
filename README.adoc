@@ -1,5 +1,5 @@
 = test asciidoc
-:toc:
+:toc: left
 :toc-title: 目录
 :source-highlighter: highlightjs
 :sectnums:
