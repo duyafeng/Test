@@ -1,0 +1,29 @@
+= test asciidoc
+
+* 123
+* 123
+* 123
+
+
+[source,javascript]
+----
+
+{
+  "name":"ado"
+}
+
+----
+
+
+[NOTE]
+this is a note!
+
+
+.table sample
+[cols="10%,30%,60%", width="100%"]
+|===
+|col1 | col2 | col3
+|123 | 123 | 123
+|456 | 456 | 456
+|789 | 789 | 789
+|===
