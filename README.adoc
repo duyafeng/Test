@@ -4,11 +4,14 @@
 :source-highlighter: highlightjs
 :sectnums:
 :sectnumlevels: 5
+:icons: font
 
 * 123
 * 123
 * 123
 
+[NOTE]
+test
 
 == test1
 [source,javascript]
